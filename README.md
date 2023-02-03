@@ -8,11 +8,11 @@ The uniform points are generated using the `UF_MODL_ask_curve_points` NX Open fu
 
 ## Download
 
-See "Releases" for built files. The `nx_curve_sampler.dll` file is a compiled version of the user function.
+See "Releases" for built files. The `nx_curve_sampling.dll` file is a compiled version of the user function.
 
 ## Usage
 
-The `nx_curve_sampler.dll` is an "NX Open" function that is applied to a model. Begin by opening a model
+The `nx_curve_sampling.dll` is an "NX Open" function that is applied to a model. Begin by opening a model
 that has a curve to be sampled. Click "File" -> "Execute" -> "NX Open".
 
 ![](docs/figures/execute_nx_open.png)
